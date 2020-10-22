@@ -4,3 +4,4 @@ projekt 1 opcja 5 linki z których korzystaliśmy:
 2. https://www.learnpython.org/pl/Funkcje
 3. https://www.learnpython.org/pl/
 
+
